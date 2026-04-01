@@ -54,6 +54,13 @@ Whether you're a beginner cook or a culinary expert, Recipe Finder helps you exp
   <li>PostgreSQL database (Neon recommended)</li>
   <li>Clerk account</li>
 </ul>
+<h2>🖥️ <b>Run the Backend</b></h2>
+
+<pre>
+cd backend
+npm install
+npm run dev
+</pre>
 
 <h2>📱 <b>Run the Mobile App</b></h2>
 

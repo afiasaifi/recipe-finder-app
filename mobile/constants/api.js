@@ -1,0 +1,1 @@
+export const API_URL = "https://recipe-finder-app-api-6vqq.onrender.com/api";
